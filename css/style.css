@@ -20,6 +20,13 @@
 	padding: 0px;
 }
 
+.aboutwall {
+	background: white;
+	border: 4px solid #1190ee;
+	border-top-width: 0px;
+	padding: 0px;
+}
+
 .post {
 	padding: 15px;
 	border-bottom: 4px solid #1190ee;
