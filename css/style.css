@@ -1,3 +1,9 @@
+.logo {
+	margin-top: 3px;
+	width: 48px;
+	height: 48px;
+}
+
 .toolbarbtn {
 	background-color: #3399FF;
 	margin-left: 15px;
@@ -32,9 +38,21 @@
 	border-bottom: 4px solid #1190ee;
 }
 
+.ads {
+	left: 16px;
+	bottom: 0px;
+	position: fixed;
+}
+
+.adimg {
+	width: 48px;
+	height: 48px;
+}
+
 .credits {
 	margin: 0px;
 	right: 3px;
 	bottom: 0px;
 	position: fixed;
+	color: #1190ee;
 }
