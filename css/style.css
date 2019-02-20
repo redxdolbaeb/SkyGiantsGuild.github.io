@@ -38,6 +38,11 @@
 	border-bottom: 4px solid #1190ee;
 }
 
+.date {
+	text-align: right;
+	color: grey;
+}
+
 .ads {
 	left: 16px;
 	bottom: 0px;
