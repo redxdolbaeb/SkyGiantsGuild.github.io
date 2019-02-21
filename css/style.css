@@ -38,6 +38,13 @@
 	border-bottom: 4px solid #1190ee;
 }
 
+.head {
+	border: 4px solid #1190ee;
+	image-rendering: pixelated;
+	width: 64px;
+	height: 64px;
+}
+
 .date {
 	text-align: right;
 	color: grey;
