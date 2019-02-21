@@ -43,6 +43,12 @@
 	image-rendering: pixelated;
 	width: 64px;
 	height: 64px;
+	transition: 0.2s;
+}
+
+.head:hover {
+	transform: scale(1.1) rotateZ(10deg);
+	transition: 0.2s;
 }
 
 .date {
@@ -67,4 +73,14 @@
 	bottom: 0px;
 	position: fixed;
 	color: #1190ee;
+}
+
+#Delphi:hover {
+	color: #0000ff;
+	transition: 0.2s;
+}
+
+#REDxStep:hover {
+	color: #ff0000;
+	transition: 0.2s;
 }
